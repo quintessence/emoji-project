@@ -102,6 +102,7 @@ Mostly logos, but all images scaled to 128x128 or smaller for use as Slack emoji
  ![images/linkedin-logo-slack-icon.png](images/linkedin-logo-slack-icon.png) 
  ![images/linode-logo-slack-icon.png](images/linode-logo-slack-icon.png) 
  ![images/macdown-logo-slack-icon.png](images/macdown-logo-slack-icon.png) 
+ ![images/macmail-logo-slack-icon.png](images/macmail-logo-slack-icon.png) 
  ![images/mailchimp-logo-slack-icon.png](images/mailchimp-logo-slack-icon.png) 
  ![images/marvin-slack-icon.png](images/marvin-slack-icon.png) 
  ![images/mcdonalds-slack-icon.png](images/mcdonalds-slack-icon.png) 
