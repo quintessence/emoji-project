@@ -99,6 +99,7 @@ Mostly logos, but all images scaled to 128x128 or smaller for use as Slack emoji
  ![images/keybase-logo-slack-icon.png](images/keybase-logo-slack-icon.png) 
  ![images/keynote-logo-slack-icon.png](images/keynote-logo-slack-icon.png) 
  ![images/kodos-slack-icon.png](images/kodos-slack-icon.png) 
+ ![images/lastpass-logo-slack-icon.png](images/lastpass-logo-slack-icon.png) 
  ![images/linkedin-logo-slack-icon.png](images/linkedin-logo-slack-icon.png) 
  ![images/linode-logo-slack-icon.png](images/linode-logo-slack-icon.png) 
  ![images/macdown-logo-slack-icon.png](images/macdown-logo-slack-icon.png) 
