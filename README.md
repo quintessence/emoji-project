@@ -179,6 +179,7 @@ Mostly logos, but all images scaled to 128x128 or smaller for use as Slack emoji
  ![images/remembrall-slack-icon.png](images/remembrall-slack-icon.png) 
  ![images/review-ninja-github-slack-icon.png](images/review-ninja-github-slack-icon.png) 
  ![images/rhel-logo-slack-icon.png](images/rhel-logo-slack-icon.png) 
+ ![images/rimshot-slack-icon.png](images/rimshot-slack-icon.png) 
  ![images/roadrunner-slack-icon.png](images/roadrunner-slack-icon.png) 
  ![images/rolling-on-the-floor-laughing-slack-icon.png](images/rolling-on-the-floor-laughing-slack-icon.png) 
  ![images/ruby-logo-slack-icon.png](images/ruby-logo-slack-icon.png) 
