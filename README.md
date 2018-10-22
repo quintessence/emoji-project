@@ -92,6 +92,7 @@ Mostly logos, but all images scaled to 128x128 or smaller for use as Slack emoji
  ![images/github-down-slack-icon.png](images/github-down-slack-icon.png) 
  ![images/github-logo-slack-icon.png](images/github-logo-slack-icon.png) 
  ![images/gitlab-slack-icon.png](images/gitlab-slack-icon.png) 
+ ![images/gluten-free-slack-icon.png](images/gluten-free-slack-icon.png) 
  ![images/gmail-logo-slack-icon.png](images/gmail-logo-slack-icon.png) 
  ![images/golang-gopher-slack-icon.png](images/golang-gopher-slack-icon.png) 
  ![images/gollum-slack-icon.png](images/gollum-slack-icon.png) 
