@@ -19,6 +19,7 @@ Mostly logos, but all images scaled to 128x128 or smaller for use as Slack emoji
  ![images/asana-logo-slack-icon.png](images/asana-logo-slack-icon.png) 
  ![images/atom-logo-slack-icon.png](images/atom-logo-slack-icon.png) 
  ![images/australia-slack-icon.png](images/australia-slack-icon.png) 
+ ![images/avocado-heart-slack-icon.png](images/avocado-heart-slack-icon.png) 
  ![images/azure-logo-slack-icon.png](images/azure-logo-slack-icon.png) 
  ![images/badger-slack-icon.png](images/badger-slack-icon.png) 
  ![images/basecamp-logo-slack-icon.png](images/basecamp-logo-slack-icon.png) 
