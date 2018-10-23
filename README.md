@@ -227,6 +227,7 @@ Mostly logos, but all images scaled to 128x128 or smaller for use as Slack emoji
  ![images/slackbot-slack-icon.png](images/slackbot-slack-icon.png) 
  ![images/slackware-logo-slack-icon.png](images/slackware-logo-slack-icon.png) 
  ![images/slytherin-slack-icon.png](images/slytherin-slack-icon.png) 
+ ![images/snort-professor-slack-icon.png](images/snort-professor-slack-icon.png) 
  ![images/sonic-screwdriver-11-slack-icon.png](images/sonic-screwdriver-11-slack-icon.png) 
  ![images/spain-slack-icon.png](images/spain-slack-icon.png) 
  ![images/sprint-slack-icon.png](images/sprint-slack-icon.png) 
