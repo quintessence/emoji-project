@@ -105,6 +105,7 @@ Mostly logos, but all images scaled to 128x128 or smaller for use as Slack emoji
  ![images/grub-slack-icon.png](images/grub-slack-icon.png) 
  ![images/gryffindor-slack-icon.png](images/gryffindor-slack-icon.png) 
  ![images/hacktoberfest-2018-slack-icon.png](images/hacktoberfest-2018-slack-icon.png) 
+ ![images/hacktoberfest-2020-slack-icon.png](images/hacktoberfest-2020-slack-icon.png)
  ![images/happy-panda-slack-icon.gif](images/happy-panda-slack-icon.gif) 
  ![images/harvest-logo-slack-icon.png](images/harvest-logo-slack-icon.png) 
  ![images/hashicorp-logo-slack-icon.png](images/hashicorp-logo-slack-icon.png) 
