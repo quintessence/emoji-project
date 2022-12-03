@@ -1,0 +1,7 @@
+#!/bin/bash
+
+(
+echo "**Note:** the party parrots and other party emojis (a.k.a. 'seizure-moji') are not displayed."
+echo ""
+find images -type f -exec printf '![%s](%s)\n' "{}" "{}" \; | sed "s/ /%20/g"
+) | grep -v /parrots/ | grep -vwi party > icon-preview.md
