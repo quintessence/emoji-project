@@ -1,4 +1,7 @@
 # The Emoji Project
+
+> A collection of emojis that can be uploaded to Slack, Discord, Mastodon, etc.
+
 ## The Project Formerly Known as Slack Icons
 
 Project initially started by gathering icons / emoji for Slack; however the emojis / icons here can easily be used with Discord, Mastodon, etc.
